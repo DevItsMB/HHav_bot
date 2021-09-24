@@ -21,7 +21,7 @@
 
 # Requirements
 * `node` <a href="https://nodejs.org/en/download/">Version 8.0.0 or higher</a> (tested with v16.9.1 LTS)
-* `git` command line (<a href="https://git-scm.com/download/win">Windows</a>|<a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">Linux</a>|<a href="https://git-scm.com/download/mac">MacOS</a>)
+* `git` command line (<a href="https://git-scm.com/download/win">Windows </a>|<a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git"> Linux</a>|<a href="https://git-scm.com/download/mac"> MacOS</a>)
 * `npm` Comes with node.js, required to install the dependencies.
 
 # Cloning/Downloading
