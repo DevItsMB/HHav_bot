@@ -7,12 +7,15 @@
   <tr>
     <th>Command</th>
     <th>Permissions Needed</th>
-	<th>Comments</th>
+	<th>Comment</th>
   </tr>
   <tr>
-    <td><code>-help</code></td>
+    <td><code>help</code></td>
     <td>None</td>
-	<td>A list of all commands</td>
+	<td>list of commands</td>
+    <td><code>credits</code></td>
+    <td>None</td>
+	<td>list of credits</td>
 </table>
 
 * The Prefix can be changed in the config.json file.
