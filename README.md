@@ -12,10 +12,7 @@
   <tr>
     <td><code>help</code></td>
     <td>None</td>
-	<td>list of commands</td>
-    <td><code>credits</code></td>
-    <td>None</td>
-	<td>list of credits</td>
+	<td>list of all commands</td>
 </table>
 
 * The Prefix can be changed in the config.json file.
